@@ -1,0 +1,20 @@
+
+.top {
+  background-image: url(http://healthyrise.com/wp-content/uploads/2016/06/Restaurant-Food-9.jpg);
+}
+
+.top nav {
+  display: flex;
+  justify-content: space-between;
+  align-items:center;
+  color: black;
+  padding: 10px;
+  margin:10px;
+}
+.top a {
+  text-decoration: none;
+  color:white;
+}
+#title{
+            font:50px black;
+        }
